@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../Sem5/BYT/Jednostkowe/BYT-lab-4/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../Sem5/BYT/Jednostkowe/BYT-lab-4">
+      <sourceFolder url="file://$MODULE_DIR$/../../../Sem5/BYT/Jednostkowe/BYT-lab-4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../Sem5/BYT/Jednostkowe/BYT-lab-4/test" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="junit4">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/lib/junit4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
